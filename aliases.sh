@@ -86,3 +86,6 @@ dka() {
         echo "❌ Aborted."
     fi
 }
+
+# --- Server dotfiles ----------------------------------------
+alias dotfiles_update="bash ~/.server-dotfiles/update.sh"
