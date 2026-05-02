@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 set -euo pipefail
 
-REPO="RomainMILLAN/Server-s-Dotfiles"
+REPO="RomainMILLAN/Server-Dotfiles"
 BRANCH="main"
 RAW_BASE="https://raw.githubusercontent.com/${REPO}/${BRANCH}"
 

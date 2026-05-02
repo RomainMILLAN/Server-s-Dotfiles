@@ -12,7 +12,7 @@ git init
 git add -A
 git commit -m "Initial: server aliases + one-line installer"
 git branch -M main
-git remote add origin git@github.com:RomainMILLAN/Server-s-Dotfiles.git
+git remote add origin git@github.com:RomainMILLAN/Server-Dotfiles.git
 git push -u origin main
 ```
 
@@ -21,7 +21,7 @@ Le repo doit être **public** pour que l'installation par `curl` fonctionne.
 ### 2. Installer sur un serveur
 
 ```bash
-curl -fsSL https://raw.githubusercontent.com/RomainMILLAN/Server-s-Dotfiles/main/install.sh | bash
+curl -fsSL https://raw.githubusercontent.com/RomainMILLAN/Server-Dotfiles/main/install.sh | bash
 source ~/.bashrc
 ```
 

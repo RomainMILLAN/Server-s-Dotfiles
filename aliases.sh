@@ -1,5 +1,5 @@
 # ============================================================
-# Server aliases — https://github.com/RomainMILLAN/Server-s-Dotfiles
+# Server aliases — https://github.com/RomainMILLAN/Server-Dotfiles
 # ============================================================
 
 # --- Navigation & listing -----------------------------------
